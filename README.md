@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhaniKumar
-- 👀 I’m interested in programing, photography
+- 👀 I’m interested in programming, photography
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Spring and Open source Java projects.
 - 📫 How to reach me [twitter/@PhaniKumar](https://twitter.com/PhaniKumar)
